@@ -4,3 +4,4 @@
 
 layout: home
 ---
+This is a test site for curious people that have no life
